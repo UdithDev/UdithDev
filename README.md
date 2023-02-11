@@ -1,3 +1,4 @@
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h1 align="center">Hi 👋, I'm Udith Dev Weerakkody</h1>
 <h3 align="center">Software Engineer</h3>
 
