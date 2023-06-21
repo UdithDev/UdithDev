@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Internet Technology and client-server architecture arc**
+- 🌱 I’m currently learning **Institute of Software Engineering**
 
-- 💬 Ask me about **JAVA, CSS , HTML, JS**
+- 💬 Ask me about **JAVA, CSS , HTML, JS ,MySql**
 
 - 📫 How to reach me **daveudithh@gmail.com**
 
