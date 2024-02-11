@@ -80,57 +80,72 @@
 <body>
 
 <div class="container">
-  <h1>Hi 👋, I'm Udith Dev Weerakkody</h1>
-  <h3>A dedicated and aspiring Software Engineering student hailing from Sri Lanka.</h3>
+  <h1>👋 Hi, I'm Udith Dev Weerakkody</h1>
+  <h3>Aspiring Software Engineering Student | Sri Lanka 🇱🇰</h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithdev&label=Profile%20views&color=0e75b6&style=flat" alt="udithdev" /> </p>
+  <p align="center">
+    <a href="https://github.com/udithdev">
+      <img src="https://komarev.com/ghpvc/?username=udithdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+    </a>
+    <a href="mailto:daveudithh@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Email-blue" alt="Contact Email"/>
+    </a>
+  </p>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udithdev&theme=onedark" alt="udithdev" /></a> </p>
+  <p align="center">
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/udithdev?style=social" alt="Twitter Follow"/>
+    </a>
+  </p>
 
-  <p align="left"> <a href="https://twitter.com/" target="blank" class="badge">Twitter</a> </p>
+  <h2 align="center">About Me</h2>
+  <ul align="center">
+    <li>🌱 I’m currently learning <strong>Software Engineering at the Institute of Software Engineering</strong>.</li>
+    <li>💬 Ask me about <strong>Java, CSS, HTML, JavaScript</strong>.</li>
+    <li>📝 You can find my articles on <a href="https://medium.com/@daveudith">Medium</a>.</li>
+  </ul>
 
-  <p align="center">🌱 I’m currently learning <strong>Institute of Software Engineering</strong></p>
-  <p align="center">💬 Ask me about <strong>JAVA, CSS , HTML, JS</strong></p>
-  <p align="center">📫 How to reach me <a href="mailto:daveudithh@gmail.com">daveudithh@gmail.com</a></p>
+  <h2 align="center">Connect with Me</h2>
+  <p align="center">
+    <a href="https://linkedin.com/in/udithdev">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    </a>
+    <a href="https://stackoverflow.com/users/udithdev">
+      <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow"/>
+    </a>
+    <a href="https://instagram.com/udith_dev">
+      <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram"/>
+    </a>
+    <a href="https://medium.com/@daveudith">
+      <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium"/>
+    </a>
+  </p>
 
-  <h3>Connect with me:</h3>
-  <div class="social-icons">
-    <a href="https://linkedin.com/in/udithdev" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-    <a href="https://stackoverflow.com/users/udithdev" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" /></a>
-    <a href="https://fb.com/udithdevweerakkody" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
-    <a href="https://instagram.com/udith_dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" /></a>
-    <a href="https://medium.com/@daveudith" target="_blank"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" /></a>
-    <a href="https://discord.gg/udithdev" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" /></a>
-  </div>
+  <h2 align="center">Languages and Tools</h2>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </p>
 
-  <h3>Languages and Tools:</h3>
-  <div class="languages">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-  </div>
+  <h2 align="center">GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide=html&theme=dark" alt="Top Languages"/>
+  </p>
 
-  <div class="stats">
-    <div>
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide=html&theme=radical" alt="Top Languages">
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=udithdev&show_icons=true&theme=radical" alt="GitHub Stats">
-    </div>
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev&theme=radical" alt="GitHub Streak">
-    </div>
-  </div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=udithdev&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev&theme=dark" alt="GitHub Streak"/>
+  </p>
 </div>
 
 </body>
