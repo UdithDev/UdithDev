@@ -118,4 +118,16 @@
   <div class="stats">
     <div>
       <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide=html" alt="Top Languages">
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=udithdev&show_icons=true" alt="GitHub Stats">
+    </div>
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev" alt="GitHub Streak">
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
