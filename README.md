@@ -7,7 +7,8 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f3f4f6;
+      background-color: #1f1f1f;
+      color: #ccc;
       margin: 0;
       padding: 0;
     }
@@ -15,17 +16,20 @@
       max-width: 800px;
       margin: 50px auto;
       padding: 20px;
-      background-color: #fff;
+      background-color: #2b2b2b;
       border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     }
     h1, h3 {
       text-align: center;
-      color: #333;
+    }
+    h1 {
+      color: #fff;
     }
     h3 {
       font-weight: normal;
       margin-top: 10px;
+      color: #bbb;
     }
     .badge {
       display: inline-block;
@@ -46,7 +50,7 @@
     .social-icons a {
       margin: 0 10px;
       text-decoration: none;
-      color: #333;
+      color: #ccc;
       font-size: 20px;
     }
     .social-icons a:hover {
@@ -91,12 +95,12 @@
 
   <h3>Connect with me:</h3>
   <div class="social-icons">
-    <a href="https://linkedin.com/in/udithdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" /></a>
-    <a href="https://stackoverflow.com/users/udithdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" /></a>
-    <a href="https://fb.com/udithdevweerakkody" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" /></a>
-    <a href="https://instagram.com/udith_dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
-    <a href="https://medium.com/@daveudith" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" /></a>
-    <a href="https://discord.gg/udithdev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" /></a>
+    <a href="https://linkedin.com/in/udithdev" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+    <a href="https://stackoverflow.com/users/udithdev" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" /></a>
+    <a href="https://fb.com/udithdevweerakkody" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" /></a>
+    <a href="https://instagram.com/udith_dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" /></a>
+    <a href="https://medium.com/@daveudith" target="_blank"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" /></a>
+    <a href="https://discord.gg/udithdev" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" /></a>
   </div>
 
   <h3>Languages and Tools:</h3>
@@ -118,13 +122,13 @@
   <div class="stats">
     <div>
       <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide=html" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide=html&theme=radical" alt="Top Languages">
     </div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=udithdev&show_icons=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=udithdev&show_icons=true&theme=radical" alt="GitHub Stats">
     </div>
     <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev&theme=radical" alt="GitHub Streak">
     </div>
   </div>
 </div>
