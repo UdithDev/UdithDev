@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Udith Dev Weerakkody</h1>
-<h3 align="center">Aspiring Software Engineering Student | Sri Lanka 🇱🇰</h3>
+<h3 align="center">Aspiring Software Engineer | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <a href="https://github.com/udithdev">
-    <img src="https://komarev.com/ghpvc/?username=udithdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=udithdev&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
   </a>
   <a href="mailto:daveudithh@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-blue" alt="Contact Email"/>
@@ -18,9 +18,9 @@
 
 <h2 align="center">About Me</h2>
 
-- 🌱 I’m currently learning **Software Engineering at the Institute of Software Engineering**.
-- 💬 Ask me about **Java, CSS, HTML, JavaScript**.
-- 📝 You can find my articles on [Medium](https://medium.com/@daveudith).
+<p align="center">🌱 Currently learning Software Engineering at the Institute of Software Engineering.</p>
+<p align="center">💬 Ask me about Java, CSS, HTML, JavaScript.</p>
+<p align="center">📝 Check out my articles on <a href="https://medium.com/@daveudith">Medium</a>.</p>
 
 <h2 align="center">Connect with Me</h2>
 
