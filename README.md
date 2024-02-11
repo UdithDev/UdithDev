@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👋 Hi, I'm Udith Dev Weerakkody</title>
+ 
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #1f1f1f; color: #ccc; margin: 0; padding: 0;">
 
