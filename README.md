@@ -74,6 +74,10 @@
   <p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev&theme=dark" alt="GitHub Streak"/>
   </p>
+
+  <p style="text-align: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=udithdev&theme=darkhub" alt="GitHub Trophies" style="margin-top: 20px;"/>
+  </p>
 </div>
 
 </body>
