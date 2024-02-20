@@ -28,8 +28,8 @@
 
   <h2 style="text-align: center;">About Me</h2>
   <ul style="text-align: center;">
-    <li>🌱 I’m currently learning <strong>Software Engineering at the Institute of Software Engineering</strong>.</li>
-    <li>💬 Ask me about <strong>Java, CSS, HTML, JavaScript</strong>.</li>
+    <li>🌱 I’m currently learning <strong>Software Engineering at the Institute of Software Engineering</strong>.</li> 
+    <li>💬 Ask me about <strong>Java, CSS, HTML, JavaScript, Typescript, React, Next.js, Spring Boot, Express.Js, ReactNative, Tailwind CSS</strong>.</li>
     <li>📝 You can find my articles on <a href="https://medium.com/@daveudith">Medium</a>.</li>
   </ul>
 
