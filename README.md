@@ -30,7 +30,7 @@
   <ul style="text-align: center;">
     <li>🌱 I’m currently studying <strong>Bsc(Hons) in Software Engineering at the University of Bedfordshire,UK(SLIIT)</strong>.</li> 
     <li>💬 Ask me about <strong>Java, CSS, HTML, JavaScript, Typescript, React, Next.js, Spring Boot, Express.Js, ReactNative, Tailwind CSS</strong>.</li>
-    <li>📝 You can find my articles on <a href="https://medium.com/@daveudith">Medium</a>.</li>
+    
   </ul>
 
   <h2 style="text-align: center;">Connect with Me</h2>
