@@ -8,7 +8,7 @@
 <body style="font-family: Arial, sans-serif; background-color: #1f1f1f; color: #ccc; margin: 0; padding: 0;">
 
 <div style="max-width: 800px; margin: 50px auto; padding: 20px; background-color: #2b2b2b; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
-  <h1 style="text-align: center; color: #fff;">👋 Hi, I'm Udith Dev Weerakkody</h1>
+  <h1 style="text-align: center; color: #fff;">👋 Hi, I'm Udith Weerakkody</h1>
   <h3 style="text-align: center; font-weight: normal; margin-top: 10px; color: #bbb;">Aspiring Software Engineering Student | Sri Lanka 🇱🇰</h3>
 
   <p style="text-align: center;">
