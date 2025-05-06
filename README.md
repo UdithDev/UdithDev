@@ -29,7 +29,7 @@
   <h2 style="text-align: center;">About Me</h2>
   <ul style="text-align: center;">
     <li>🌱 I’m currently studying <strong>Bsc(Hons) in Software Engineering at the University of Bedfordshire,UK(SLIIT)</strong>.</li> 
-    <li>💬 Ask me about <strong>Java, CSS, HTML, JavaScript, Typescript, React, Next.js, Spring Boot, Express.Js, ReactNative, Tailwind CSS</strong>.</li>
+    <li>💬 Working Trainee Fullstack Software Engineer at Ceylinco Insurance IT Department(Research and Development)</li>
     
   </ul>
 
