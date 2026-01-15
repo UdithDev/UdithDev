@@ -1,84 +1,126 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
-<body style="font-family: Arial, sans-serif; background-color: #1f1f1f; color: #ccc; margin: 0; padding: 0;">
+<!--
+GitHub Profile README
+Username: UdithDev
+-->
 
-<div style="max-width: 800px; margin: 50px auto; padding: 20px; background-color: #2b2b2b; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
-  <h1 style="text-align: center; color: #fff;">👋 Hi, I'm Udith Weerakkody</h1>
-  <h3 style="text-align: center; font-weight: normal; margin-top: 10px; color: #bbb;">Aspiring Software Engineering Student | Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi, I'm Udith 👋</h1>
+<h3 align="center">DevOps Enthusiast • Cloud & Linux Practitioner • Full-Stack Developer • Knowledge Sharing</h3>
 
-  <p style="text-align: center;">
-    <a href="https://github.com/udithdev">
-      <img src="https://komarev.com/ghpvc/?username=udithdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-    </a>
-    <a href="mailto:daveudithh@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-blue" alt="Contact Email"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/udith-weerakkody-97a7b4248" target="_blank">LinkedIn</a> •
+  <a href="https://www.youtube.com/@TheCodingStuntman/videos" target="_blank">YouTube</a> •
+  <a href="https://github.com/UdithDev?tab=repositories" target="_blank">Repositories</a>
+</p>
 
-  <p style="text-align: center;">
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/udithdev?style=social" alt="Twitter Follow"/>
-    </a>
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UdithDev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-  <h2 style="text-align: center;">About Me</h2>
-  <ul style="text-align: center;">
-    <li>🌱 I’m currently studying <strong>Bsc(Hons) in Software Engineering at the University of Bedfordshire,UK(SLIIT)</strong>.</li> 
-    <li>💬 Working Trainee Fullstack Software Engineer at Ceylinco Insurance IT Department(Research and Development)</li>
-    
-  </ul>
+---
 
-  <h2 style="text-align: center;">Connect with Me</h2>
-  <p style="text-align: center;">
-    <a href="https://linkedin.com/in/udithdev">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-    </a>
-    <a href="https://stackoverflow.com/users/udithdev">
-      <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow"/>
-    </a>
-    <a href="https://instagram.com/udith_dev">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram"/>
-    </a>
-    <a href="https://medium.com/@daveudith">
-      <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium"/>
-    </a>
-  </p>
+## 🚀 About Me
 
-  <h2 style="text-align: center;">Languages and Tools</h2>
-  <p style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </p>
+I am a **DevOps-focused developer** with hands-on experience across **Linux, cloud platforms, backend systems, and full-stack applications**.  
+I enjoy breaking down complex systems, automating workflows, and sharing practical knowledge with the community.
 
-  <h2 style="text-align: center;">GitHub Stats</h2>
-  <p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udithdev&layout=compact&hide=html&theme=dark" alt="Top Languages"/>
-  </p>
+- 🔧 DevOps fundamentals: **CI/CD, Linux administration, containers**
+- ☁️ Cloud exposure: **AWS & Azure basics, networking concepts**
+- 🧠 Backend & API development with performance and scalability in mind
+- 📚 Knowledge sharing via **DevOps, Linux, and Cloud quizzes** on YouTube & LinkedIn
 
-  <p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=udithdev&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  </p>
+**Current focus:** building reliable deployments, strengthening cloud networking fundamentals, and improving production-ready backend systems.
 
-  <p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithdev&theme=dark" alt="GitHub Streak"/>
-  </p>
+---
 
-  <p style="text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=udithdev&theme=darkhub" alt="GitHub Trophies" style="margin-top: 20px;"/>
-  </p>
-</div>
+## 🧰 Tech Stack
 
-</body>
-</html>
+### DevOps / Cloud
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-111?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Backend / Full-Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔊 Neural Network Noise Suppression API
+**FastAPI-based ANN application** for real-time noise suppression from single-channel audio.  
+Hardware-agnostic alternative to multi-mic systems, focused on performance and clarity.
+
+🔗 Repo: https://github.com/UdithDev/fast-Api-denoise-project
+
+---
+
+### 💬 Real-Time Chat Application
+A full-stack chat system demonstrating **real-time communication, backend APIs, and frontend integration**.
+
+🔗 Repo: https://github.com/UdithDev/Chat-Application
+
+---
+
+### 🦷 Dental Clinic Management System
+End-to-end clinic management solution covering **appointments, records, and operational workflows**.
+
+🔗 Repo: https://github.com/UdithDev/dental-clinic
+
+---
+
+### 📱 Dental Clinic Inventory – Mobile App
+Mobile application for **inventory tracking and clinic stock management**, designed for operational efficiency.
+
+🔗 Repo: https://github.com/UdithDev/dental-clinic-inventory-Mobile-App
+
+---
+
+## 📺 DevOps • Linux • Cloud Quiz Series
+
+I create **short, practical quizzes** to help learners reinforce fundamentals:
+
+- 🐧 Linux commands & permissions
+- 🔁 DevOps basics (CI/CD, containers, automation)
+- ☁️ Cloud networking (AWS & Azure fundamentals)
+
+➡️ Watch & Subscribe:  
+https://www.youtube.com/@TheCodingStuntman/videos
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UdithDev&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdithDev&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UdithDev&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/udith-weerakkody-97a7b4248
+- 📺 YouTube: https://www.youtube.com/@TheCodingStuntman/videos
+- 🧑‍💻 GitHub: https://github.com/UdithDev
+
+---
+
+## ✅ Open To
+
+- DevOps / Cloud internships or junior roles  
+- Backend & automation-focused collaborations  
+- Knowledge-sharing and technical content creation  
+
+Thanks for visiting my profile.
