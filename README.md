@@ -3,18 +3,41 @@ GitHub Profile README
 Username: UdithDev
 -->
 
-<h1 align="center">Hi, I'm Udith 👋</h1>
-<h3 align="center">DevOps Enthusiast • Cloud & Linux Practitioner • Full-Stack Developer • Knowledge Sharing</h3>
+<!--
+⚡ NEON GITHUB PROFILE README
+Username: UdithDev
+Theme: Dark / Neon / Cyber
+-->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/udith-weerakkody-97a7b4248" target="_blank">LinkedIn</a> •
-  <a href="https://www.youtube.com/@TheCodingStuntman/videos" target="_blank">YouTube</a> •
-  <a href="https://github.com/UdithDev?tab=repositories" target="_blank">Repositories</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UdithDev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Udith;DevOps+%7C+Cloud+%7C+Linux;Full-Stack+Developer;Knowledge+Sharing+%26+Automation" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/udith-weerakkody-97a7b4248">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@TheCodingStuntman/videos">
+  <img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://github.com/UdithDev?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=UdithDev&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+
+</div>
 
 ---
 
